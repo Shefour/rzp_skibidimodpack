@@ -41,6 +41,9 @@ If you plan to change configs, please make sure all users have same settings.
   	- Player visor is now subject to damage and environment.
    	- Your last used suit will be saved.
 	- More MoreCompany accesories.
+	- Bracken is now a menace, not going to elaborate on that, good luck!
+	- Spider and Thumper are now slowed a bit on hit
+	- New monster sounds and behaviour
 
 <details>
 	<summary>Added new cursed enemy for the time being. (Click for more)</summary>
