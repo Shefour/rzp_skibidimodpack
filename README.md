@@ -1,6 +1,7 @@
 # RZP_SkibidiModpack 1.0.5 (Orange)
 
 Collection of mods focused on adding heeps of new content without making it impossible to survive.
+If you plan to change configs, please make sure all users have same settings.
 
 ## Features
 
