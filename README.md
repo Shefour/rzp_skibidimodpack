@@ -30,6 +30,22 @@ Collection of mods focused on adding heeps of new content without making it impo
 
 ## Version history:
 
+### 1.0.5
+	- Masked now may drop their masks and possesed players' bodies.
+	- Enemies now trigger mines too, and humanoid ones (except bracken) get shot by turrets too.
+ 	- Teleporter cooldowns reset at day start.
+	- Enemies now make more horrifying sounds. (Crazybloglog's mods)
+	- Pathfinding shouldn't create microstutters every 200ms.
+ 	- Player names are now hidden.
+  	- Player visor is now subject to damage and environment.
+   	- Your last used suit will be saved.
+	- More MoreCompany accesories.
+
+<details>
+	<summary>Added new cursed enemy for the time being. (Click for more)</summary>
+	It's the god damn skibidi toilet mod, if it the spawn chances don't become configurable later on, or if we get bored with it, it will be removed in the future
+</details>
+
 ### 1.0.4
 	- Added new interior.
 	- Added new moon.
@@ -53,4 +69,5 @@ Collection of mods focused on adding heeps of new content without making it impo
 - **Nemeri**
 - **Czaja**
 
+## Thank you to all mod creators included in this modpack
 
