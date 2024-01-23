@@ -1,4 +1,4 @@
-# RZP_SkibidiModpack
+# RZP_SkibidiModpack 1.0.5 (Orange)
 
 Collection of mods focused on adding heeps of new content without making it impossible to survive.
 
@@ -30,7 +30,7 @@ Collection of mods focused on adding heeps of new content without making it impo
 
 ## Version history:
 
-### 1.0.5
+### 1.0.5 (Orange)
 	- Masked now may drop their masks and possesed players' bodies.
 	- Enemies now trigger mines too, and humanoid ones (except bracken) get shot by turrets too.
  	- Teleporter cooldowns reset at day start.
@@ -46,7 +46,7 @@ Collection of mods focused on adding heeps of new content without making it impo
 	It's the god damn skibidi toilet mod, if it the spawn chances don't become configurable later on, or if we get bored with it, it will be removed in the future
 </details>
 
-### 1.0.4
+### 1.0.4 (Red)
 	- Added new interior.
 	- Added new moon.
 	- Added boombox music sync fix.
