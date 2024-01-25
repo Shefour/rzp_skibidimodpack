@@ -1,7 +1,11 @@
-# RZP_SkibidiModpack 1.0.5 (Orange)
+# RZP_SkibidiModpack 1.0.6 (Yellow)
 
-Collection of mods focused on adding heeps of new content without making it impossible to survive.
+Collection of configured mods focused on adding heeps of new content without making it impossible to survive.
 If you plan to change configs, please make sure all users have same settings.
+
+# [HOST ADDONS MODPACK](https://thunderstore.io/c/lethal-company/p/SkibidiSquad/RZP_SkibidiModpack_Host_Addons/)
+
+Mods and configs useful for hosting a game using my modpack.
 
 ## Features
 
@@ -30,43 +34,55 @@ If you plan to change configs, please make sure all users have same settings.
 - New items for ship decor for enhanced personalization.
 
 ## Version history:
-
-### 1.0.5 (Orange)
-	- Masked now may drop their masks and possesed players' bodies.
-	- Enemies now trigger mines too, and humanoid ones (except bracken) get shot by turrets too.
- 	- Teleporter cooldowns reset at day start.
-	- Enemies now make more horrifying sounds. (Crazybloglog's mods)
-	- Pathfinding shouldn't create microstutters every 200ms.
- 	- Player names are now hidden.
-  	- Player visor is now subject to damage and environment.
-   	- Your last used suit will be saved.
-	- More MoreCompany accesories.
-	- Bracken is now a menace, not going to elaborate on that, good luck!
-	- Spider and Thumper are now slowed a bit on hit
+<details>
+<summary>1.0.6 (Yellow)</summary>
+	- Moved host only mods and configs to a seperate modpack available on the top of reame file.<br>
+	- Mirror decor is available to purchase for 80 credits.<br>
+	- Removed some mods to save up to ~20% space and some RAM usage.
+</details>
+<details>
+<summary>1.0.5 (Orange)</summary>
+	- Masked now may drop their masks and possesed players' bodies.<br>
+	- Enemies now trigger mines too, and humanoid ones (except bracken) get shot by turrets too.<br>
+ 	- Teleporter cooldowns reset at day start.<br>
+	- Enemies now make more horrifying sounds. (Crazybloglog's mods)<br>
+	- Pathfinding shouldn't create microstutters every 200ms.<br>
+ 	- Player names are now hidden.<br>
+  	- Player visor is now subject to damage and environment.<br>
+   	- Your last used suit will be saved.<br>
+	- More MoreCompany accesories.<br>
+	- Bracken is now a menace, not going to elaborate on that, good luck!<br>
+	- Spider and Thumper are now slowed a bit on hit<br>
 	- New monster sounds and behaviour
 
 <details>
 	<summary>Added new cursed enemy for the time being. (Click for more)</summary>
 	It's the god damn skibidi toilet mod, if it the spawn chances don't become configurable later on, or if we get bored with it, it will be removed in the future
 </details>
-
-### 1.0.4 (Red)
-	- Added new interior.
-	- Added new moon.
-	- Added boombox music sync fix.
+</details>
+<details>
+<summary>1.0.4 (Red)</summary>
+	- Added new interior.<br>
+	- Added new moon.<br>
+	- Added boombox music sync fix.<br>
 	- Adjusted configs for interior chance and loot spawns.
-
-### 1.0.3
+</details>
+<details>
+<summary>1.0.3</summary>
 	- Adjusted configs and added new suits.
-
-### 1.0.2
+</details>
+<details>
+<summary>1.0.2</summary>
 	- Updated dependencies and included "HideChat" mod by Monkeytype.
-
-### 1.0.1
+</details>
+<details>
+<summary>1.0.1</summary>
 	- Added configs.
-
-### 1.0.0
+</details>
+<details>
+<summary>1.0.0</summary>
 	- Creation of the mod.
+</details>
 
 ## Contributors
 - **Shefour**
