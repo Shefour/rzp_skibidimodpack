@@ -36,10 +36,13 @@ Clients joining lobbies don't need them<br>
 - New items for ship decor for enhanced personalization.
 
 ## Version history:
-
-### 1.0.7
+### 1.0.8
+	- Reintroduced host mods and configs to avoid unnecessary confusion.
+<details>
+<summary>1.0.7</summary>
 	- Removed one unneeded mod.
 	- Edited manifest file to remind about host addons.
+</details>
 <details>
 <summary>1.0.6 (Yellow)</summary>
 	- Moved host only mods and configs to a seperate modpack available on the top of reame file.<br>
