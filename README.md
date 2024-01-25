@@ -5,7 +5,9 @@ If you plan to change configs, please make sure all users have same settings.
 
 # [HOST ADDONS MODPACK](https://thunderstore.io/c/lethal-company/p/SkibidiSquad/RZP_SkibidiModpack_Host_Addons/)
 
-Mods and configs useful for hosting a game using my modpack.
+Mods and configs useful for hosting a game or playing singleplayer using my modpack.<br>
+Clients joining lobbies don't need them<br>
+<big>HIGHLY RECCOMENDED TO USE ALONGSIDE MAIN MODPACK WHEN HOSTING/SINGLE!</big>
 
 ## Features
 
@@ -34,6 +36,10 @@ Mods and configs useful for hosting a game using my modpack.
 - New items for ship decor for enhanced personalization.
 
 ## Version history:
+
+### 1.0.7
+	- Removed one unneeded mod.
+	- Edited manifest file to remind about host addons.
 <details>
 <summary>1.0.6 (Yellow)</summary>
 	- Moved host only mods and configs to a seperate modpack available on the top of reame file.<br>

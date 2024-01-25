@@ -1,8 +1,8 @@
 {
   "name": "RZP_SkibidiModpack",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://thunderstore.io/c/lethal-company/p/SkibidiSquad/RZP_SkibidiModpack_Host_Addons/",
-  "description": "Modpack for RZP discord server. Don't forget the HOST Modpack if you plan to host!!!",
+  "description": "Modpack for RZP discord server. Don't forget the HOST Modpack if you plan to host or play singleplayer for identical experience!!!",
   "dependencies": [
     "SkibidiSquad-SkibidiFM-1.1.8",
     "Clementinise-CustomSounds-2.3.2",
@@ -20,7 +20,6 @@
     "CHILLAX-ChillaxSCRAPS-0.6.0",
     "IAmBatby-LethalLevelLoader-1.0.7",
     "Zingar-SecretLabs-3.3.4",
-    "sfDesat-ExpansionAssets-1.0.0",
     "RugbugRedfern-Skinwalkers-4.0.1",
     "scoopy-Scoopys_Variety_Mod-0.6.5",
     "FlipMods-ObjectVolumeController-1.0.4",
