@@ -3,12 +3,6 @@
 Collection of configured mods focused on adding heeps of new content without making it impossible to survive.
 If you plan to change configs, please make sure all users have same settings.
 
-# [HOST ADDONS MODPACK](https://thunderstore.io/c/lethal-company/p/SkibidiSquad/RZP_SkibidiModpack_Host_Addons/)
-
-Mods and configs useful for hosting a game or playing singleplayer using my modpack.<br>
-Clients joining lobbies don't need them<br>
-<big>HIGHLY RECCOMENDED TO USE ALONGSIDE MAIN MODPACK WHEN HOSTING/SINGLE!</big>
-
 ## Features
 
 ### QoL Changes and Fixes
