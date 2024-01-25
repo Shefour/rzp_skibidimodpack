@@ -1,4 +1,4 @@
-# RZP_SkibidiModpack 1.0.6 (Yellow)
+# RZP_SkibidiModpack 1.0.6 - 1.0.8 (Yellow)
 
 Collection of configured mods focused on adding heeps of new content without making it impossible to survive.
 If you plan to change configs, please make sure all users have same settings.
