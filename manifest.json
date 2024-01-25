@@ -2,7 +2,7 @@
   "name": "RZP_SkibidiModpack",
   "version_number": "1.0.6",
   "website_url": "https://thunderstore.io/c/lethal-company/p/SkibidiSquad/RZP_SkibidiModpack_Host_Addons/",
-  "description": "Modpack for RZP server. Don't forget the HOST Modpack!!!",
+  "description": "Modpack for RZP discord server. Don't forget the HOST Modpack if you plan to host!!!",
   "dependencies": [
     "SkibidiSquad-SkibidiFM-1.1.8",
     "Clementinise-CustomSounds-2.3.2",
