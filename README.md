@@ -1,4 +1,4 @@
-# RZP_SkibidiModpack 1.0.9 (Light Green)
+# RZP_SkibidiModpack 1.1.0 (Mint)
 
 Collection of configured mods focused on adding heeps of new content without making it impossible to survive.
 If you plan to change configs, please make sure all users have same settings.
@@ -18,7 +18,8 @@ If you plan to change configs, please make sure all users have same settings.
 - Two new interiors to explore.
 
 ### Enemy Changes & Enhancements
-- Few addons to enemies to make them more intimadating.
+- Few additions to enemies to make them more intimadating.
+- Main changes are AI pathfinding fixes and behavioral changes
 
 ### Weather multipliers
 - Weather conditions are now more rewarding.
@@ -30,9 +31,12 @@ If you plan to change configs, please make sure all users have same settings.
 - New items for ship decor for enhanced personalization.
 
 ## Version history:
-### 1.0.9
-	- New moons mainly
+### 1.1.0 v56
+	- Updated all the mods to the newest stable versions, removed deprecated mods, readjusted configs
 <details>
+<summary>1.0.9 & 1.0.10 & 10.0.11 (Light Green) v47</summary>
+	- Replaced all mod moons with Wesley's moons, as they are of finest quality right now, also changed some mods, updated config
+</details>
 <summary>1.0.8</summary>
 	- Reintroduced host mods and configs to avoid unnecessary confusion.
 </details>
