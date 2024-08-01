@@ -32,11 +32,12 @@ If you plan to change configs, please make sure all users have same settings.
 
 ## Version history:
 ### 1.1.0 v56
-	- Updated all the mods to the newest stable versions, removed deprecated mods, readjusted configs
+	- Updated all the mods to the newest stable versions, removed deprecated mods, redone configs from ground up due to the ammount of updates since last mod version
 <details>
 <summary>1.0.9 & 1.0.10 & 10.0.11 (Light Green) v47</summary>
 	- Replaced all mod moons with Wesley's moons, as they are of finest quality right now, also changed some mods, updated config
 </details>
+<details>
 <summary>1.0.8</summary>
 	- Reintroduced host mods and configs to avoid unnecessary confusion.
 </details>
